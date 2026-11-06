@@ -26,3 +26,4 @@ else
 fi
 # freeCodeCamp Periodic Table Database
 # Periodic table database runner script
+# Commit 2
